@@ -3,3 +3,4 @@ Fo this I select region in columns and representative in column regionwise.
 to get annual performance of a respresntative in the specific region. I have to get his total sales.
 So fo this i used calculated feild and get the sum of the sales by multiplying unit quantity sold to unit price.
 and put it in rows. So by this i get that in central region the top performer is matthew in East Suasn and in West Its James.
+Also I did Some labelling and formatting to chart data to lok more attractive and added one more calculated feild which is if total sales>=100 Then "Profit" Else "LOSS" End.
