@@ -1,0 +1,19 @@
+﻿Region,Rep,Calculation1,Total sales
+Central,Rachel,PROFIT,420.31
+Central,Morgan,PROFIT,1387.77
+Central,Smith,PROFIT,1555
+Central,Bill,PROFIT,1672.47
+Central,Alex,PROFIT,2757.3
+Central,Matthew,PROFIT,3109.44
+Central,Rachel,LOSS,18.06
+Central,Smith,LOSS,86.43
+Central,Bill,LOSS,77.4
+Central,Alex,LOSS,54.89
+East,Nick,PROFIT,479.04
+East,Richard,PROFIT,2343.08
+East,Susan,PROFIT,3102.3
+East,Nick,LOSS,57.71
+East,Richard,LOSS,19.96
+West,Thomas,PROFIT,1139.43
+West,James,PROFIT,1283.61
+West,Thomas,LOSS,63.68
